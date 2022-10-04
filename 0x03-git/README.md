@@ -1,1 +1,1 @@
-I’m currently learning Software Engineering
+Learning Software Engineering
